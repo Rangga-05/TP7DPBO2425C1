@@ -49,7 +49,9 @@ Relasi:<br>
 ### 🧩 Diagram Relasi
 Suppliers (1) → Products (∞)<br>
 Products (1) → Orders (∞)
-
+<div align = "center">
+  <img src = "Dokumentasi/DiagramSistemManajemenProduk.png">
+</div>
 
 ### ⚙️ Struktur File & Fungsinya
 1. 📁 index.php
